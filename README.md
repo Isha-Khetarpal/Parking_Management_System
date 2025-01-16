@@ -70,11 +70,6 @@ The **Parking Management System** is a web-based application designed to manage 
 
 To run this project locally, follow the steps below:
 
-### 1. Clone the repository:
-```bash
-git clone https://github.com/Isha-Khetarpal/Parking_Management_System.git
-
-
 ### Breakdown of Sections:
 
 1. **Project Description**: The purpose and overview of the Parking Management System.
@@ -85,3 +80,7 @@ git clone https://github.com/Isha-Khetarpal/Parking_Management_System.git
 6. **Usage**: Instructions on how the admin and users will interact with the system.
 7. **License**: Information about the project’s open-source license.
 8. **Acknowledgements**: Credits for libraries and contributors.
+
+### Clone the repository:
+```bash
+git clone https://github.com/Isha-Khetarpal/Parking_Management_System.git
